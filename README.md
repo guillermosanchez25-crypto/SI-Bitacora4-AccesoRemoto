@@ -1,7 +1,7 @@
 # SI-Bitacora4-AccesoRemoto
 
 TAREA 1: CREAR EL CODIGO
-<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/56888ea5-af6f-4e62-b5a6-040205e260dd" />
+<img width="1919" height="811" alt="image" src="https://github.com/user-attachments/assets/0778ba25-a849-4899-a1ae-212eebf25715" />
 
 TAREA 2: VERIFICAR QUE LOS CONTENEDORES FUNCIONAN
 <img width="1256" height="710" alt="image" src="https://github.com/user-attachments/assets/684cb086-f50b-439c-9d2b-255da6f21285" >
@@ -27,6 +27,6 @@ Paso C (Transferencia): Copia tu llave pública al servidor. Puedes usar ssh-cop
 
 
   
-
+Yo pienso que ssh es mas usado porque es ligero y rapido ya que consume pocos recursos y ademas que funciona muy bien incluso en conexiones lentas y se integra facilmente con scripts y herramientas de automatizacion
 
 
