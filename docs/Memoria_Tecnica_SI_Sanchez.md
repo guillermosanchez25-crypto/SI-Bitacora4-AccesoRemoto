@@ -16,11 +16,12 @@ Fecha: 15/05/2026
 
 # 1\. Análisis de Necesidades {#1.-análisis-de-necesidades}
 
-La empresa necesitaba una forma más segura y sencilla de acceder a sus servidores remotos. Antes de esta solución, cada usuario debía conectarse directamente mediante SSH o RDP, lo que obligaba a abrir varios puertos en el firewall y aumentaba los riesgos de seguridad.  
-Para resolver este problema, se ha implementado una infraestructura basada en Apache Guacamole y Docker. Guacamole permite acceder a los servidores desde un navegador web sin instalar programas adicionales. Además, Docker facilita la creación y gestión de contenedores aislados, haciendo que cada servicio funcione de forma independiente.  
-La principal ventaja de esta solución es la centralización del acceso remoto en un único punto. Esto mejora la seguridad y simplifica la administración de los sistemas. Asimismo, el uso de contenedores permite desplegar servicios rápidamente y facilita las tareas de mantenimiento.  
-Otra ventaja importante es el ahorro económico, ya que todas las herramientas utilizadas son software libre y cuentan con licencias open source. Esto reduce costes de licencias y ofrece mayor flexibilidad para futuras ampliaciones de la infraestructura.  
-En conclusión, la combinación de Docker y Apache Guacamole proporciona una solución segura, moderna y fácil de administrar para el acceso remoto empresarial.
+La empresa requería una manera más práctica y segura de conectarse a sus servidores remotos. Antes de implantar esta solución, los usuarios tenían que acceder directamente mediante protocolos como SSH o RDP, lo que implicaba mantener varios puertos abiertos en el firewall y suponía un mayor riesgo para la seguridad.
+Para solucionar esta situación, se desarrolló una infraestructura basada en Docker y Apache Guacamole. Gracias a Guacamole, es posible acceder a los servidores a través de un navegador web sin necesidad de instalar aplicaciones adicionales. Por otro lado, Docker permite ejecutar servicios en contenedores independientes, facilitando su gestión y aislamiento.
+Uno de los principales beneficios de esta implementación es que el acceso remoto queda centralizado en un único punto, lo que incrementa la seguridad y simplifica la administración de los sistemas. Además, el uso de contenedores agiliza el despliegue de servicios y hace más sencillas las tareas de mantenimiento y actualización.
+También destaca el ahorro de costes, ya que todas las herramientas empleadas son de software libre y con licencias de código abierto. Esto evita gastos en licencias propietarias y proporciona una mayor flexibilidad para futuras mejoras o ampliaciones de la infraestructura.
+En definitiva, la integración de Docker y Apache Guacamole ofrece una solución eficiente, segura y fácil de gestionar para el acceso remoto dentro del entorno empresarial.
+
 
 # 2\. Conclusión {#2.-conclusión}
 
