@@ -1,2 +1,1 @@
-PostgreSQL se distribuye bajo la Licencia PostgreSQL (una licencia permisiva de tipo open source similar a la BSD o MIT).
-
+### Docker Engine se rige por la licencia Apache 2.0 . Docker Desktop distribuye algunos componentes que se rigen por la Licencia Pública General de GNU. Docker Desktop no es gratuito para grandes empresas. Los archivos Dockerfile pueden estar sujetos a una licencia de código abierto.
