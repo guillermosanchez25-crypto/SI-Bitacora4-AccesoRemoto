@@ -1,5 +1,6 @@
 # Licencias usadas en este trabajo
 
+
 ### Docker:
 
 El motor de Docker está licenciado bajo la Apache License 2.0. Docker Desktop distribuye algunos componentes que se encuentran bajo la Licencia Pública General GNU. Cabe señalar que Docker Desktop no es gratuito para las grandes empresas.
@@ -21,6 +22,7 @@ La licencia Apache (Apache License o Apache Software License para versiones ante
 
 mas informacion en: https://es.wikipedia.org/wiki/Apache_License
 
+
 ### OpenSSH:
 
 La licencia BSD es la licencia de software otorgada principalmente para los sistemas BSD (Berkeley Software Distribution), un tipo del sistema operativo Unix-like. Es una licencia de software libre permisiva como la licencia de OpenSSL o la MIT License. Esto está en contraste con las licencias copyleft, que tienen de reciprocidad requisitos de compartir-igual. Esta licencia tiene menos restricciones en comparación con otras como la GPL estando muy cercana al dominio público. La licencia BSD al contrario que la GPL permite el uso del código fuente en software no libre. La versión original ya se ha revisado y sus variantes son denominadas licencias BSD modificadas.
@@ -28,3 +30,11 @@ La licencia BSD es la licencia de software otorgada principalmente para los sist
 Es muy similar en efectos a la licencia MIT.
 
 mas informacion en: https://es.wikipedia.org/wiki/Licencia_BSD
+
+
+### Linux Ubuntu Server:
+
+La Licencia Pública General de GNU o más conocida por su nombre en inglés GNU General Public License (o simplemente sus siglas en inglés GNU GPL) es una licencia de derecho de autor ampliamente usada en el mundo del software libre y código abierto,[6] y garantiza a los usuarios finales (personas, organizaciones, compañías) la libertad de usar, estudiar, compartir (copiar) y modificar el software.
+
+mas informacion en: https://es.wikipedia.org/wiki/GNU_General_Public_License#
+
