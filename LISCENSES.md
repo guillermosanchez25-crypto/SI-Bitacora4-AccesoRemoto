@@ -1,1 +1,6 @@
-### Docker Engine se rige por la licencia Apache 2.0 . Docker Desktop distribuye algunos componentes que se rigen por la Licencia Pública General de GNU. Docker Desktop no es gratuito para grandes empresas. Los archivos Dockerfile pueden estar sujetos a una licencia de código abierto.
+# Licencias usadas en este trabajo
+
+###Docker:
+
+El motor de Docker está licenciado bajo la Apache License 2.0. Docker Desktop distribuye algunos componentes que se encuentran bajo la Licencia Pública General GNU. Cabe señalar que Docker Desktop no es gratuito para las grandes empresas.[45]
+Por otro lado, los archivos Dockerfile pueden publicarse bajo una licencia de código abierto. Sin embargo,el alcance de dicha licencia aplica únicamente al Dockerfile en sí, y no la imagen del contenedor generada a partir de este.
