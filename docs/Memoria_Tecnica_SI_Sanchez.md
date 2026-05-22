@@ -38,3 +38,10 @@ La solución implementada mejora la seguridad y la organización de la infraestr
 git add .  
 git commit \-m "feat: Sprint 1 completado \- UD07"  
 git push origin main
+
+
+
+
+
+# 2. Estimación de Costes de Infraestructura.
+<img width="1205" height="211" alt="image" src="https://github.com/user-attachments/assets/699ae015-00b7-4298-8051-f94ddf57ce12" />
