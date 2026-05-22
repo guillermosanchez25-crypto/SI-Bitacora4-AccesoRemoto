@@ -63,6 +63,12 @@ del servidor
 
 #  4. Justificación Científica
 
-La utilización de infraestructura cloud y contenedores Docker aporta ventajas importantes en rendimiento, seguridad y escalabilidad para aplicaciones modernas. Según diversos estudios recientes sobre computación en la nube, el uso de contenedores permite reducir el consumo de recursos del servidor y mejorar la velocidad de despliegue de aplicaciones frente a sistemas tradicionales. Además, tecnologías como Docker facilitan la portabilidad del proyecto, ya que la aplicación puede ejecutarse de la misma forma en diferentes entornos sin problemas de compatibilidad. Esto resulta especialmente útil en proyectos colaborativos y en entornos de producción cloud. También se destaca que las arquitecturas cloud permiten aumentar la disponibilidad y realizar copias de seguridad automatizadas, mejorando la continuidad del servicio y la protección de datos. Por ello, el uso de servidores VPS, almacenamiento cloud y contenedores Docker representa una solución eficiente, segura y escalable para el desarrollo e implementación del proyecto.
+
+
 
 #### Referencias:
+
+[1] A.P Kurniawan, M Nasry Ashraf, F. Hidayat, S. Salsabila, P. T. Winsu Guatama, A. Mazharuddin Shiddiqi y H. Studiawan,
+"Performance Evaluation for deploying Dockerized Web Application on AWS, GCP, and Azure"
+in 2023 IEEE International Conference of Control, Electronics and Computer technology (ICCECT), 2023, pp. 345-350
+https://ieeexplore.ieee.org/abstract/document/10140775
