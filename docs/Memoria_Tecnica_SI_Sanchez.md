@@ -44,4 +44,21 @@ git push origin main
 
 
 # 2. Estimación de Costes de Infraestructura.
-<img width="1205" height="211" alt="image" src="https://github.com/user-attachments/assets/699ae015-00b7-4298-8051-f94ddf57ce12" />
+<img width="1406" height="232" alt="image" src="https://github.com/user-attachments/assets/3631fcaa-3415-4803-b57c-3f59945d949f" />
+
+
+
+# 3. Estrategia de Despliegue y Comunicación.
+
+Para realizar el despliague de la app en produccion se usara el protocolo SFTP (SSH File Transfer Protocol) porque permite transferir archivos de forma segura entre el quipo local y el servidor cloud 
+mediante conexiones cifradas porque el protocolo usa autenticacion SSH asi que lo protege de credenciales de acceso como los datos que se envian durante la transferencia.
+Se descarta el uso de protocolo FTP tradicional porque transmite la informacion en texto plano y presenta riesgos en la seguridad frente ataques que quieren interceptarlo.
+
+El proceso de despliegue consiste en subir los archivoss de la app desde el ordenador del desarrollador hacia un server VPS en la nube usando herramientas compatibles con SFTP como FileZilla o la terminal
+de Linux, ademas que el proyecto puede apoyarse de los contenedores Docker para que la organizacion sea mas facil.
+
+Para la comunicacion interna y gestion de incidencias usamos discord, porque permite coordinar tareas, compartir pantalla e informacion mediante links o descargas y se pueden
+recibir alertas relacionadas con el estado 
+del servidor
+
+
