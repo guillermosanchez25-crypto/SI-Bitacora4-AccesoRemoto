@@ -41,8 +41,6 @@ git push origin main
 
 
 
-
-
 # 2. Estimación de Costes de Infraestructura.
 <img width="1406" height="232" alt="image" src="https://github.com/user-attachments/assets/3631fcaa-3415-4803-b57c-3f59945d949f" />
 
@@ -63,12 +61,11 @@ del servidor
 
 #  4. Justificación Científica
 
-
-
+Según un estudio reciente encontrado en Google Scholar sobre aplicaciones desplegadas con Docker en servicios cloud, el uso de contenedores mejora el rendimiento, la escalabilidad y la facilidad de mantenimiento de las aplicaciones web. La investigación compara el funcionamiento de aplicaciones Dockerizadas en plataformas como AWS, Google Cloud y Microsoft Azure, concluyendo que las arquitecturas cloud permiten optimizar recursos y mejorar la velocidad de despliegue. Además, el uso de contenedores Docker facilita la portabilidad del proyecto y reduce problemas de compatibilidad entre entornos de desarrollo y producción. Estas características hacen que la infraestructura cloud sea una solución eficiente y segura para proyectos modernos, especialmente en aplicaciones web que necesitan disponibilidad, flexibilidad y capacidad de crecimiento. Por ello, el uso de servidores VPS, almacenamiento cloud y contenedores Docker representa una tecnología adecuada para el desarrollo e implementación de este proyecto
 
 #### Referencias:
 
 [1] A.P Kurniawan, M Nasry Ashraf, F. Hidayat, S. Salsabila, P. T. Winsu Guatama, A. Mazharuddin Shiddiqi y H. Studiawan,
 "Performance Evaluation for deploying Dockerized Web Application on AWS, GCP, and Azure"
 in 2023 IEEE International Conference of Control, Electronics and Computer technology (ICCECT), 2023, pp. 345-350
-https://ieeexplore.ieee.org/abstract/document/10140775
+
